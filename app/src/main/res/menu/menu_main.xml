@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.artf.ruacalendar.MainActivity">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_white_48dp"
+        android:orderInCategory="1"
+        android:title="@string/search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/createEvent"
+        android:icon="@drawable/ic_create_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/createEvent"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/createNote"
+        android:icon="@drawable/ic_insert_drive_file_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/note"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/synchronize"
+        android:icon="@drawable/ic_autorenew_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/synchronize"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/settings"
+        android:checked="false"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+</menu>

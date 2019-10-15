@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Agenda -->
+    <string name="today">Bugün</string>
+    <string name="tomorrow">Yarın</string>
+    <string name="agenda_event_day_duration">d</string>
+    <string name="agenda_event_all_day">Tüm gün</string>
+    <string name="agenda_event_no_events">Etkinlik yok</string>
+
+    <!-- Weather -->
+    <string name="morning">Sabah</string>
+    <string name="afternoon">Öğleden sonra</string>
+    <string name="evening">Akşam</string>
+</resources>

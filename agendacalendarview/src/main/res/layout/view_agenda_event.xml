@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.tibolte.agendacalendarview.agenda.AgendaEventView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+    <!-- Description -->
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+>
+
+
+    <LinearLayout
+        android:id="@+id/view_agenda_event_description_container"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@drawable/mainview"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rowView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.95"
+            android:layout_margin="2dp"
+            android:padding="5dp"
+            android:orientation="vertical" >
+            <RelativeLayout
+                android:id="@+id/rowView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/mainview"
+                android:padding="4sp"
+                android:layout_centerVertical="true">
+                <TextView
+                    android:id="@+id/timeStartText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:lines="1"
+                    android:overScrollMode="never"
+                    android:textSize="14sp"
+                    android:textColor="#000000" />
+                <TextView
+                    android:id="@+id/timeEndText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/timeStartText"
+                    android:lines="1"
+                    android:overScrollMode="never"
+                    android:textSize="14sp"
+                    android:textColor="#000000" />
+            </RelativeLayout>
+
+            <TextView
+            android:id="@+id/view_agenda_event_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:layout_marginLeft="15sp"
+                android:overScrollMode="never"
+                android:gravity="start"
+                android:layout_centerVertical="true"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:layout_toRightOf="@+id/rowView2"
+                />
+
+
+
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
+
+</com.github.tibolte.agendacalendarview.agenda.AgendaEventView>

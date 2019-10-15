@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RUA 行事曆</string>
+
+    <string name="_10_minutes_before">10 分鐘 前</string>
+    <string name="_15_minutes_before">15 分鐘 前</string>
+    <string name="_30_minutes_before">30 分鐘 前</string>
+    <string name="_1_hour_before">1 小時 前</string>
+
+    <string name="add_notification">新增 通知</string>
+    <string name="addEvent">新增 事件</string>
+    <string name="addNote">新增 備註</string>
+    <string name="asEmail">E-mail</string>
+    <string name="asNotification">通知</string>
+    <string name="allDay">整天</string>
+    <string name="calendar">行事曆</string>
+    <string name="cancel">取消</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="contactUs">和我們聯絡</string>
+    <string name="custom">自訂 …</string>
+    <string name="customNotification">自訂 通知</string>
+    <string name="createDate">建立 資料庫:</string>
+    <string name="createEvent">建立 事件</string>
+    <string name="createNote">建立 備注</string>
+    <string name="day">天</string>
+    <string name="daysBefore">今天之前</string>
+    <string name="edit">編輯</string>
+    <string name="editEvent">編輯 事件</string>
+    <string name="email_prompt">輸入E-mail位置</string>
+    <string name="event">事件</string>
+    <string name="help">幫助 \u0026 反馈</string>
+    <string name="hoursBefore">一小時之前</string>
+    <string name="invitePeople">邀請</string>
+    <string name="locationPicker">輸入 地點</string>
+    <string name="minutesBefore">分鐘 之前</string>
+    <string name="noNotification">無 通知</string>
+    <string name="note">備註</string>
+    <string name="noteCreate">建立 備註</string>
+    <string name="noteEdit">編輯 備註</string>
+    <string name="noteHint">輸入您的備註</string>
+    <string name="notificationsSwitch">備註</string>
+    <string name="notyficationEvent">新增 通知</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="recurrence">單次 事件</string>
+    <string name="save">儲存</string>
+    <string name="schedule">行程</string>
+    <string name="search">搜尋</string>
+    <string name="settings">設定</string>
+    <string name="startOfweekDay">開始週在:</string>
+    <string name="startWith">開始於:</string>
+    <string name="sync">同步</string>
+    <string name="synchronize">同步</string>
+    <string name="threeDays">三天</string>
+    <string name="timeFormat">使用24小時制</string>
+    <string name="today">今天</string>
+    <string name="week">週</string>
+    <string name="weeksBefore">一週前</string>
+
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="sunday">星期天</string>
+
+
+    <string name="button_response">LOL</string>
+</resources>

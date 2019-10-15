@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D2D2D</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ff8d00</color>
+    <color name="colorAccentDark">#303f9f</color>
+    <color name="colorButton">#FFB151</color>
+    <color name="colorButton2">#DDFFB151</color>
+    <color name="colorLine">#9a9a9a</color>
+    <color name="colorLine2">#8f000000</color>
+    <color name="colorLine3">#2D2D2D</color>
+    <color name="colorBackground">#ebebeb</color>
+    <color name="colorBackgroundTime">#bdbdbd</color>
+    <color name="colorBackgroundLight">#f7f7f7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="greenL600">#BB7cb342</color>
+    <color name="green900">#558b2f</color>
+    <color name="otherDays">#9e9e9e</color>
+    <color name="blue800">#9F1565c0</color>
+    <color name="coloreNote">#AAffe57f</color>
+
+    <color name="event_color_01">#59dbe0</color>
+    <color name="event_color_02">#f57f68</color>
+    <color name="event_color_03">#87d288</color>
+    <color name="event_color_04">#f8b552</color>
+    <color name="toolbar">#efefef</color>
+    <color name="toolbar_text">#8f000000</color>
+    <color name="accent">#2789e4</color>
+    <color name="star"> #ffc107</color>
+
+</resources>

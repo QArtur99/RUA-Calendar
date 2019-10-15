@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RUA takvim</string>
+
+    <string name="_10_minutes_before">10 dakika önce</string>
+    <string name="_15_minutes_before">15 dakika önce</string>
+    <string name="_30_minutes_before">30 dakika önce</string>
+    <string name="_1_hour_before">1  saat önce</string>
+
+    <string name="add_notification">Bildirim ekle</string>
+    <string name="addEvent">Etkinlik ekle</string>
+    <string name="addNote">Not ekle</string>
+    <string name="allDay">Tüm Gün</string>
+    <string name="asEmail">E-mail olarak</string>
+    <string name="asNotification">Bildirim olarak</string>
+    <string name="button_response">LOL</string>
+    <string name="calendar">Takvim</string>
+    <string name="cancel">İptal et</string>
+    <string name="closeDrawer">Navigasyon görünümü</string>
+    <string name="contactUs">Bizimle iletişime geçin</string>
+    <string name="custom">Özel …</string>
+    <string name="customNotification">Özel bildirim</string>
+    <string name="createDate">Tarih oluştur:</string>
+    <string name="createEvent">Etkinlik oluştur</string>
+    <string name="createNote">Not oluştur</string>
+    <string name="day">Gün</string>
+    <string name="daysBefore">Gün önce</string>
+    <string name="edit">Düzenle</string>
+    <string name="editEvent">Etkinlik düzenle</string>
+    <string name="email_prompt">E-mail adresi gir</string>
+    <string name="event">Etkinlik</string>
+    <string name="help">Yardım \u0026 geri bildirim</string>
+    <string name="hoursBefore">Saat önce</string>
+    <string name="invitePeople">İsanları davet et</string>
+
+    <string name="locationPicker">Yer gir</string>
+    <string name="minutesBefore">Dakika önce</string>
+    <string name="noNotification">Bildirim yok</string>
+    <string name="note">Not defteri</string>
+    <string name="noteCreate">Not oluştur</string>
+    <string name="noteEdit">Not düzenle</string>
+    <string name="noteHint">Not gir</string>
+    <string name="notificationsSwitch">Bildirimler</string>
+    <string name="notyficationEvent">Bildirim ekle</string>
+    <string name="openDrawer">Navigasyon görünümü kapalı</string>
+    <string name="recurrence">Bir defalık etkinlik</string>
+    <string name="save">Kaydet</string>
+    <string name="schedule">Takvim</string>
+    <string name="search">Araştır</string>
+    <string name="settings">Ayarlar</string>
+    <string name="startOfweekDay">Başlangıç gününü seç:</string>
+    <string name="startWith">İle başla:</string>
+    <string name="sync">Senkronize</string>
+    <string name="synchronize">Senkronize</string>
+    <string name="threeDays">Üç gün</string>
+    <string name="timeFormat">24 saatlik format kullan</string>
+    <string name="today">Bugün</string>
+    <string name="week">Hafta</string>
+    <string name="weeksBefore">Hafta önce</string>
+
+    <string name="monday">Pazartesi</string>
+    <string name="tuesday">Salı</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="thursday">Perşembe</string>
+    <string name="friday">Cuma</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="sunday">Pazar</string>
+</resources>

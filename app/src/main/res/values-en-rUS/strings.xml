@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RUA calendar</string>
+
+    <string name="_10_minutes_before">10 minutes before</string>
+    <string name="_15_minutes_before">15 minutes before</string>
+    <string name="_30_minutes_before">30 minutes before</string>
+    <string name="_1_hour_before">1 hour before</string>
+
+    <string name="add_notification">Add notification</string>
+    <string name="addEvent">Enter event</string>
+    <string name="addNote">Add note</string>
+    <string name="allDay">All-day</string>
+    <string name="asEmail">As e-mail</string>
+    <string name="asNotification">As notification</string>
+    <string name="button_response">LOL</string>
+    <string name="calendar">Calendar</string>
+    <string name="cancel">Cancel</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="contactUs">Contact Us</string>
+    <string name="custom">Custom …</string>
+    <string name="customNotification">Custom Notification</string>
+    <string name="createDate">Created date:</string>
+    <string name="createEvent">Create event</string>
+    <string name="createNote">Create note</string>
+    <string name="day">Day</string>
+    <string name="daysBefore">Days before</string>
+    <string name="edit">Edit</string>
+    <string name="editEvent">Edit event</string>
+    <string name="email_prompt">Enter a email address</string>
+    <string name="event">Event</string>
+    <string name="help">Help \u0026 Feedback</string>
+    <string name="hoursBefore">Hours before</string>
+    <string name="invitePeople">Invite people</string>
+    <string name="locationPicker">Enter location</string>
+    <string name="minutesBefore">Minutes before</string>
+    <string name="noNotification">No notification</string>
+    <string name="note">Notebook</string>
+    <string name="noteCreate">Create note</string>
+    <string name="noteEdit">Edit note</string>
+    <string name="noteHint">Enter note</string>
+    <string name="notificationsSwitch">Notifications</string>
+    <string name="notyficationEvent">Add notification</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="recurrence">One time event</string>
+    <string name="save">Save</string>
+    <string name="schedule">Schedule</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="startOfweekDay">Start of the week:</string>
+    <string name="startWith">Start with:</string>
+    <string name="sync">Sync</string>
+    <string name="synchronize">Synchronize</string>
+    <string name="threeDays">Three days</string>
+    <string name="timeFormat">Use 24 hours fromat</string>
+    <string name="today">Today</string>
+    <string name="week">Week</string>
+    <string name="weeksBefore">Weeks before</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+</resources>

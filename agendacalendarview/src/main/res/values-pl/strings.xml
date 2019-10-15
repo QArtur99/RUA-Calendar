@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Agenda -->
+    <string name="today">Dziś</string>
+    <string name="tomorrow">Jutro</string>
+    <string name="agenda_event_day_duration">d</string>
+    <string name="agenda_event_all_day">Cały dzień</string>
+    <string name="agenda_event_no_events">Brak wydarzeń</string>
+
+    <!-- Weather -->
+    <string name="morning">Ranek</string>
+    <string name="afternoon">Popołudnie</string>
+    <string name="evening">Wieczór</string>
+</resources>

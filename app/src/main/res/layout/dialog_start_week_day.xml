@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/colorBackgroundLight"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title5"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/startOfweekDay"
+        android:background="@color/colorButton"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textStyle="normal|bold"
+        android:textColor="#FFFFFF"/>
+
+    <RadioGroup
+        android:id="@+id/startOfweekDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/startOfweekDay1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="@string/monday"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/startOfweekDay2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="@string/tuesday"
+            android:textSize="16sp" />
+        <RadioButton
+            android:id="@+id/startOfweekDay3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="@string/wednesday"
+            android:textSize="16sp" />
+        <RadioButton
+            android:id="@+id/startOfweekDay4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="@string/thursday"
+            android:textSize="16sp" />
+        <RadioButton
+            android:id="@+id/startOfweekDay5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="@string/friday"
+            android:textSize="16sp" />
+        <RadioButton
+            android:id="@+id/startOfweekDay6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="@string/saturday"
+            android:textSize="16sp" />
+        <RadioButton
+            android:id="@+id/startOfweekDay7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:text="@string/sunday"
+            android:textSize="16sp" />
+    </RadioGroup>
+
+</LinearLayout>

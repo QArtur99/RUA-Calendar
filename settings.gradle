@@ -1,0 +1,1 @@
+include ':agendacalendarview', ':library2', ':library', ':app', ':recurrenedialog'

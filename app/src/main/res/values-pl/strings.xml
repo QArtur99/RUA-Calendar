@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RUA kalendarz</string>
+
+    <string name="_10_minutes_before">10 minut wcześniej</string>
+    <string name="_15_minutes_before">15 minut wcześniej</string>
+    <string name="_30_minutes_before">30 minut wcześniej</string>
+    <string name="_1_hour_before">1 godzina wcześniej</string>
+
+    <string name="add_notification">Dodaj powiadomienie</string>
+    <string name="addEvent">Wprowadź wydarzenie</string>
+    <string name="addNote">Dodaj notatke</string>
+    <string name="asEmail">E-mail</string>
+    <string name="asNotification">Powiadomienie</string>
+    <string name="allDay">Cały dzień</string>
+    <string name="calendar">Kalendarz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="contactUs">Napisz do nas</string>
+    <string name="custom">Niestandardowe …</string>
+    <string name="customNotification">Niestandardowe powiadomienie</string>
+    <string name="createDate">Data utworzenia:</string>
+    <string name="createEvent">Utwórz wydarzenie</string>
+    <string name="createNote">Utwórz notatkę</string>
+    <string name="day">Dzień</string>
+    <string name="daysBefore">Dni wcześniej</string>
+    <string name="edit">Edycja</string>
+    <string name="editEvent">Edytuj wydarzenie</string>
+    <string name="email_prompt">Wprowadź adres email</string>
+    <string name="event">Wydarzenie</string>
+    <string name="help">Pomoc \u0026 Opinie</string>
+    <string name="hoursBefore">Godzin wcześniej</string>
+    <string name="invitePeople">Zaproś uczestników</string>
+    <string name="locationPicker">Wprowadź lokalizacje</string>
+    <string name="minutesBefore">Minut wcześniej</string>
+    <string name="noNotification">Bez powiadomienia</string>
+    <string name="note">Notatnik</string>
+    <string name="noteCreate">Utwórz notatkę</string>
+    <string name="noteEdit">Edytuj notatkę</string>
+    <string name="noteHint">Wprowadź notatkę</string>
+    <string name="notificationsSwitch">Powiadomienia</string>
+    <string name="notyficationEvent">Dodaj powiadomienie</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="recurrence">Jednorazowe wydarzenie</string>
+    <string name="save">Zapisz</string>
+    <string name="schedule">Harmonogram</string>
+    <string name="search">Wyszukaj</string>
+    <string name="settings">Ustawienia</string>
+    <string name="startOfweekDay">Rozpocznij tydzień w:</string>
+    <string name="startWith">Rozpocznij z:</string>
+    <string name="sync">Synchronizacja</string>
+    <string name="synchronize">Synchronizacja</string>
+    <string name="threeDays">Trzy dni</string>
+    <string name="timeFormat">Użyj formatu 24h</string>
+    <string name="today">Dziś</string>
+    <string name="week">Tydzień</string>
+    <string name="weeksBefore">Tygodni wcześniej</string>
+
+    <string name="monday">Poniedziałek</string>
+    <string name="tuesday">Wtorek</string>
+    <string name="wednesday">Środa</string>
+    <string name="thursday">Czwartek</string>
+    <string name="friday">Piątek</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Niedziela</string>
+</resources>

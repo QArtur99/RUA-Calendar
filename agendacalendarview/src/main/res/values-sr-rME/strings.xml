@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Agenda -->
+    <string name="today">Danas</string>
+    <string name="tomorrow">Sjutra</string>
+    <string name="agenda_event_day_duration">d</string>
+    <string name="agenda_event_all_day">Citav dan</string>
+    <string name="agenda_event_no_events">Bez dogadjaja</string>
+
+
+    <string name="morning">Jutro</string>
+    <string name="afternoon">Poslijepodne</string>
+    <string name="evening">Vece</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RUA kalendar</string>
+
+    <string name="_10_minutes_before">10 minuta prije</string>
+    <string name="_15_minutes_before">15 minuta prije</string>
+    <string name="_30_minutes_before">30 minuta prije</string>
+    <string name="_1_hour_before">1 sat prije</string>
+
+    <string name="add_notification">Dodaj obavjestenje</string>
+    <string name="addEvent">Dodaj dogadjaj</string>
+    <string name="addNote">Dodaj biljesku</string>
+    <string name="allDay">Citav dan</string>
+    <string name="asEmail">Kao e-mail</string>
+    <string name="asNotification">Kao obavjestenje</string>
+    <string name="button_response">LOL</string>
+    <string name="calendar">Kalendar</string>
+    <string name="cancel">Otkazati</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="contactUs">Kontaktirajte nas</string>
+    <string name="custom">Obicaj …</string>
+    <string name="customNotification">Obicaj obavjestenja</string>
+    <string name="createDate">Napravi datum:</string>
+    <string name="createEvent">Napravi dogadjaj</string>
+    <string name="createNote">Napravi biljesku</string>
+    <string name="day">Dan</string>
+    <string name="daysBefore">Dan prije</string>
+    <string name="edit">Uredi</string>
+    <string name="editEvent">Uredi dogadjaj</string>
+    <string name="email_prompt">Unesite email adresu</string>
+    <string name="event">Dogadjaj</string>
+    <string name="help">Pomoc \u0026 Opinie</string>
+    <string name="hoursBefore">Sati prije</string>
+    <string name="invitePeople">Pozovite ljude</string>
+    <string name="locationPicker">Odredi lokaciju</string>
+    <string name="minutesBefore">Minuti prije</string>
+    <string name="noNotification">Bez obavjestenja</string>
+    <string name="note">Biljeska</string>
+    <string name="noteCreate">Napravi biljesku</string>
+    <string name="noteEdit">Uredi biljesku</string>
+    <string name="noteHint">Unesi biljesku</string>
+    <string name="notificationsSwitch">Obavjestaja</string>
+    <string name="notyficationEvent">Dodaj obavjestenje</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="recurrence">Jednom događaju</string>
+    <string name="save">Sacuvaj</string>
+    <string name="schedule">Raspores</string>
+    <string name="search">Pretraga</string>
+    <string name="settings">Podesavanja</string>
+    <string name="startOfweekDay">Poceti od nedelje:</string>
+    <string name="startWith">Pocni sa:</string>
+    <string name="sync">Sinhronizacija</string>
+    <string name="synchronize">Sinhronizuj</string>
+    <string name="threeDays">Tri dana</string>
+    <string name="timeFormat">Vremenski format 24h</string>
+    <string name="today">Danas</string>
+    <string name="week">Nedelja</string>
+    <string name="weeksBefore">Nedelja prijebefore</string>
+
+    <string name="monday">Ponedeljak</string>
+    <string name="tuesday">Utorak</string>
+    <string name="wednesday">Srijeda</string>
+    <string name="thursday">Cetvrtak</string>
+    <string name="friday">Petak</string>
+    <string name="saturday">Subota</string>
+    <string name="sunday">Nedelja</string>
+</resources>

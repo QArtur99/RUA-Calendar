@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Agenda -->
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="agenda_event_day_duration">d</string>
+    <string name="agenda_event_all_day">整天</string>
+    <string name="agenda_event_no_events">無事件</string>
+
+    <!-- Weather -->
+    <string name="morning">早上</string>
+    <string name="afternoon">下午</string>
+    <string name="evening">晚上</string>
+</resources>

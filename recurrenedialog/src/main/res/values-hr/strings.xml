@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2006 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="email_picker_label" msgid="4808253965057791781">"Obavijesti e-poštom"</string>
+    <string name="save_label" msgid="2133599104834432589">"Gotovo"</string>
+    <string name="recurrence_dialog_title" msgid="8093909645557717483">"Ponovi"</string>
+    <string name="recurrence_dialog_title_never" msgid="2679396029776590130">"Ne ponavlja se nikad"</string>
+  <plurals name="recurrence_interval_daily">
+    <item quantity="one" msgid="1205422710088692631">"Svakog <xliff:g id="COUNT">%d</xliff:g>. dana"</item>
+    <item quantity="other" msgid="707566499994398250">"Svakog <xliff:g id="COUNT">%d</xliff:g>. dana"</item>
+  </plurals>
+  <plurals name="recurrence_interval_weekly">
+    <item quantity="one" msgid="4948681635464488351">"Svakog <xliff:g id="COUNT">%d</xliff:g>. tjedna"</item>
+    <item quantity="other" msgid="7094801039989237061">"Svakog <xliff:g id="COUNT">%d</xliff:g>. tjedna"</item>
+  </plurals>
+  <plurals name="recurrence_interval_monthly">
+    <item quantity="one" msgid="4768178401603139718">"Svakog <xliff:g id="COUNT">%d</xliff:g>. mjeseca"</item>
+    <item quantity="other" msgid="5419723710346646523">"Svakog <xliff:g id="COUNT">%d</xliff:g>. mjeseca"</item>
+  </plurals>
+  <plurals name="recurrence_interval_yearly">
+    <item quantity="one" msgid="5819562634008179102">"Svake <xliff:g id="COUNT">%d</xliff:g>. godine"</item>
+    <item quantity="other" msgid="5678653649746562060">"Svake <xliff:g id="COUNT">%d</xliff:g>. godine"</item>
+  </plurals>
+    <string name="recurrence_month_pattern_by_day" msgid="4400107556121003459">"na isti dan svakog mjeseca"</string>
+    <string name="recurrence_end_continously" msgid="6898950241634912991">"Zauvijek"</string>
+    <string name="recurrence_end_date_label" msgid="4142791438636994952">"Do datuma"</string>
+    <string name="recurrence_end_date" msgid="3693751578164711701">"Do <xliff:g id="DATE">%s</xliff:g>"</string>
+    <string name="recurrence_end_count_label" msgid="1233883668293087977">"Za ovoliko događaja"</string>
+  <plurals name="recurrence_end_count">
+    <item quantity="one" msgid="1400782968090516215">"Za ovoliko događaja: <xliff:g id="EVENT_COUNT">%d</xliff:g>"</item>
+    <item quantity="other" msgid="8779598489398048259">"Za ovoliko događaja: <xliff:g id="EVENT_COUNT">%d</xliff:g>"</item>
+  </plurals>
+    <string name="acessibility_recurrence_choose_end_date_description" msgid="5899029840837836711">"promjena datuma završetka"</string>
+</resources>
