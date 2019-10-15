@@ -16,14 +16,17 @@ RUA-Calendar is a mobile application that manages personal data and related syst
 * Search events by title
 * Synchronize with system calendars: Contacts, Holidays, Google calendar etc.
 
-### Tech
+### Used tech:
 * Java
 * AgendaCalendarView
 * AsyncTask
 * BroadcastReceiver
 * Calendar Provider API
 * Custom calendar picker
+* Fragments
 * IntentService
+* ListView
+* Loaders
 * Recurrence picker
 * SQLite
 
